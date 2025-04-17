@@ -1,0 +1,30 @@
+name: study_planner
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core packages
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Flutter UI
+  path_provider: ^2.1.2
+  cupertino_icons: ^1.0.6
+
+  # Optional (if targeting Android/iOS for WebView calendar)
+  webview_flutter: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
