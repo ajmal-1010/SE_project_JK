@@ -1,3 +1,4 @@
 # study_planner
 
-A new Flutter project.
+Software Engineering Course Project 
+Group 33 - JK
